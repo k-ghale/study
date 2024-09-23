@@ -10,5 +10,8 @@ public class arrays {
         // double[] a = new double[5];
 
         // int[] a = {1,2,3,4,5};
+
+        //Two-Dimension Arrays
+        // double[][] a = new double[2][2];
     }
 }
