@@ -16,6 +16,4 @@ public class recursion {
             return mid;
         }
     }
-
-
 }
