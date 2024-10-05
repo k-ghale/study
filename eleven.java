@@ -21,5 +21,7 @@ public class eleven {
     System.out.println("your age is : "+age);
     System.out.println("your birth year is : "+dob);
     System.out.println("todays date is : "+date);
+
+    sc.close();
   }
 }
